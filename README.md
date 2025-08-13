@@ -11,4 +11,4 @@ Muestra los nombres de los amigos, no defini el numero maximo de usuarios. Se a√
 <img width="1243" height="651" alt="image" src="https://github.com/user-attachments/assets/5454bbb8-2e40-4b7b-a31d-da8adbcc2422" />
 
 
-file:///C:/Users/Vanguardia%20Solar/Desktop/Alura%20Curso/challenge-amigo-secreto_esp-main/index.html
+
